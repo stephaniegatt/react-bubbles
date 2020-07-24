@@ -97,3 +97,26 @@ form {
     margin-top: 16px;
   }
 }
+
+.login {
+  margin: 5% 35%;
+  height: 70%;
+  width: 300px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.login-button {
+  border: none;
+  background-color: black;
+  color: white;
+  padding: 3px 8px;
+  margin: 16px;
+}
+
+.login-container {
+  margin: 10px;
+
+  input {
+    width: 70%;
+  }
+}
